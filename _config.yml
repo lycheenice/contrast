@@ -2,7 +2,7 @@ title: blog title
 author: "Blog Author"
 email: me@mysite.org
 description: "Really cool blog about ... something"
-baseurl: "/lawyer" # comment out if site is in root folder
+baseurl: "/contrast" # comment out if site is in root folder
 url: "http://niklabs.cf"
 more: "read more"
 
