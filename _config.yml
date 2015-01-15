@@ -1,0 +1,36 @@
+title: blog title
+author: "Blog Author"
+email: me@mysite.org
+description: "Really cool blog about ... something"
+baseurl: "/lawyer" # comment out if site is in root folder
+url: "http://niklabs.cf"
+more: "read more"
+
+permalink: /:title/
+excerpt_separator: "<!--more-->"
+
+comments:
+    disqus: "niklasbuschmann"
+    isso: "comments.mysite.org"
+
+style:
+#    body: "whitesmoke"
+    nav: "#181818"
+    article:
+        even: "white"
+        odd: "#222222"
+
+links:
+  - github: "https://github.com/me/"
+  - twitter: "https://twitter.com/me/"
+  - google-plus: "https://plus.google.com/+me"
+  - reddit: "https://www.reddit.com/user/me/"
+  - youtube: "https://www.youtube.com/user/me"
+  - steam: "http://steamcommunity.com/id/me/"
+
+
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
