@@ -11,7 +11,7 @@ excerpt_separator: "<!--more-->"
 
 comments:
     disqus: "niklasbuschmann"
-    isso: "comments.mysite.org"
+#    isso: "comments.mysite.org"
 
 style:
 #    body: "whitesmoke"
