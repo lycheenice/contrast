@@ -66,6 +66,7 @@ Released under *public domain*.
 * [Jekyll](http://jekyllrb.com)
 * [Github Pages](https://pages.github.com/)
 * [Richard Leland: pygment](https://github.com/richleland/pygments-css)
+* [mrdoob: three.js](https://github.com/mrdoob/three.js/)
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [Paul D. Hunt: Source Sans Pro](https://plus.google.com/108888178732927400671/about)
 * [Victor Gaultney: Gentium Basic](https://profiles.google.com/victorgaultneytype/about)
